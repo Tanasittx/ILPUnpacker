@@ -1,0 +1,8 @@
+C:\Users\Giannhs\RiderProjects\ILPUnpacker\ILPUnpacker\bin\Debug\ILPUnpacker.exe
+C:\Users\Giannhs\RiderProjects\ILPUnpacker\ILPUnpacker\bin\Debug\ILPUnpacker.pdb
+C:\Users\Giannhs\RiderProjects\ILPUnpacker\ILPUnpacker\bin\Debug\0Harmony.dll
+C:\Users\Giannhs\RiderProjects\ILPUnpacker\ILPUnpacker\bin\Debug\dnlib.dll
+C:\Users\Giannhs\RiderProjects\ILPUnpacker\ILPUnpacker\obj\Debug\ILPUnpacker.csprojAssemblyReference.cache
+C:\Users\Giannhs\RiderProjects\ILPUnpacker\ILPUnpacker\obj\Debug\ILPUnpacker.csproj.CopyComplete
+C:\Users\Giannhs\RiderProjects\ILPUnpacker\ILPUnpacker\obj\Debug\ILPUnpacker.exe
+C:\Users\Giannhs\RiderProjects\ILPUnpacker\ILPUnpacker\obj\Debug\ILPUnpacker.pdb

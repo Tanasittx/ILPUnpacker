@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Giannhs\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ILPUnpacker.159701539.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Giannhs\RiderProjects\ILPUnpacker" t="IncludeFlat">
+      <e p="ILPUnpacker" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Harmony.cs" t="Include" />
+        <e p="ILPUnpacker.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ILPUnpacker.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
